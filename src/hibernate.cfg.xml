@@ -33,6 +33,9 @@
 
         <!-- Names the annotated entity class -->
         <mapping class="org.myFirstHibernate.dto.UserDetails"/>
+        <mapping class="org.myFirstHibernate.dto.UserDetailsCollection"/>
+        <mapping class="org.myFirstHibernate.dto.UserDetailsOnly"/>
+
 
     </session-factory>
 
